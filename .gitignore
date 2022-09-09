@@ -8,16 +8,6 @@ temp
 *.tmp
 **/*.tmp
 
-# build and dist
-build
-**/build
-dist
-**/dist
-.svelte
-.svelte-kit
-**/.svelte
-**/.svelte-kit
-
 # env and local
 *.local
 **/*.local
